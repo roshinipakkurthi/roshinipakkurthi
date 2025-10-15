@@ -1,7 +1,7 @@
 <h1 align="center">✨ Roshini ✨</h1>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Analytics+%26+Cloud+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Analytics+%26+Cloud+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing Animation" />
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science (AI & ML)** — Gayatri Vidya Parishad College of Engineering, Visakhapatnam (2022–2026)
 - 💡 Passionate and self-motivated developer focused on **AI-powered solutions**, **data analytics**, and **cloud-based machine learning**.
-- 🤖 Skilled in **Python, Machine Learning, Web Development, and Cloud Integration**.
-- 🌱 Currently exploring **advanced AI applications**, **Flask/Django web frameworks**, and **DevOps tools**.
+- 🤖 Skilled in **Python, Machine Learning, Web Development, Data Analytics, and Cloud Integration**.
+- 🌱 Currently exploring **Flask/Django**, **model deployment**, and **real-time AI applications**.
 - ⚡ “Turning data and ideas into impactful intelligent systems.”
 
 ---
@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,html,css,react,nodejs,express,flask,tensorflow,pytorch,mysql,mongodb,aws,git,github,vscode,postman,docker" />
+	<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,express,flask,mysql,mongodb,aws,git,github,vscode,postman" />
 </p>
 
 ---
@@ -87,7 +87,6 @@ Developed a full-stack **Airbnb clone** with **authentication, property listings
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/roshinipakkurthi)  
 - ✉️ Email: **roshinipakkurthi@gmail.com**  
-- 🧑‍💻 [Kaggle](https://www.kaggle.com/) · [LeetCode](https://leetcode.com/) · [HackerRank](https://www.hackerrank.com/)  
 
 ---
 
