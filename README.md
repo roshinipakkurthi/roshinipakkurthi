@@ -5,49 +5,64 @@
 </p>
 
 ---
+Welcome to my GitHub! I love turning ideas into working code — from small Python scripts to full-stack web apps, dashboards, and AI/ML projects.  
+I’m continuously exploring how technology, analytics, and creativity come together to build real-world solutions.
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Computer Science (AI & ML)** — Gayatri Vidya Parishad College of Engineering, Visakhapatnam (2022–2026)
 - 💡 Passionate and self-motivated developer focused on **AI-powered solutions**, **data analytics**, and **cloud-based machine learning**.
 - 🤖 Skilled in **Python, Machine Learning, Web Development, Data Analytics, and Cloud Integration**.
-- 🌱 Currently exploring **Flask/Django**, **model deployment**, and **real-time AI applications**.
 - ⚡ “Turning data and ideas into impactful intelligent systems.”
 
 ---
 
-## 🛠️ Tech Stack
+## Skills & Tools  
 
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,express,flask,mysql,mongodb,aws,git,github,vscode,postman" />
-</p>
+**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**Frameworks & Tools:** Flask, Node.js, Tableau, AWS, Alteryx  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras  
+**Version Control:** Git & GitHub  
+**Other Interests:** Data Visualization, Machine Learning, Web Automation  
 
----
-
-## 📂 Featured Projects
-
-### 🕶️ AI Smart Glasses – Assistive Technology for the Visually Impaired
-Developed a prototype integrating **AI, real-time data analysis, and object recognition** for navigation assistance.  
-**Skills:** Python · OpenCV · TensorFlow/Keras · Raspberry Pi · Arduino · Speech APIs  
 
 ---
 
-### 🧭 Smart India Hackathon – Travel & Tourism Solution
-Contributed to an innovative travel platform emphasizing **user accessibility and experience**.  
-**Skills:** HTML · CSS · JavaScript · Flask/Django · MySQL/MongoDB  
+## 🌟 Featured Projects  
+
+### 🧠 Hate Speech Detection – Text Classification AI  
+Built an AI model to classify text as **hate speech, offensive, or neutral**, with NLP preprocessing and cloud deployment using CI/CD.  
+**Skills:** Python · TensorFlow · NLP · FastAPI · Google Cloud · CircleCI  
 
 ---
 
-### 🔢 Handwritten Digit Recognition
-Built a **CNN model** to classify handwritten digits using the MNIST dataset, achieving high accuracy.  
-**Skills:** Python · TensorFlow/Keras · NumPy · Matplotlib  
+### 🧬 Cancer Detection using CNN – Medical Image Classification  
+Built a **CNN model** to classify breast tissue images as **benign or malignant**, using image preprocessing and augmentation techniques.  
+**Skills:** Python · TensorFlow/Keras · OpenCV · NumPy · Matplotlib  
 
 ---
 
-### 🏡 Airbnb Clone – Property Rental Web App
-Developed a full-stack **Airbnb clone** with **authentication, property listings, search filters**, and **booking management**.  
-**Skills:** React.js · Node.js · Express · MongoDB · JWT  
+### 🦠 CoronaVirus Web Scraping & Voice Recognition  
+Developed a **real-time COVID-19 tracker** with web scraping and voice interaction capabilities.  
+**Skills:** Python · BeautifulSoup · pyttsx3 · Pandas  
 
 ---
+
+### 🌐 Full-Stack Project – Web Application  
+Built a complete **full-stack web app** with frontend, backend, database integration, and responsive UI.  
+**Skills:** HTML · CSS · JavaScript · Flask/Node.js · SQL  
+
+---
+
+### 📊 Tableau Dashboards – Business Intelligence  
+Created **interactive dashboards** for data visualization and business insights using Tableau.  
+**Skills:** Tableau · Excel · Data Visualization  
+
+---
+
+### 🐍 Python Mini Projects – Automation & Scripts  
+Developed multiple **Python scripts** for automation and small-scale projects, focusing on problem-solving.  
+**Skills:** Python · NumPy · Pandas  
+
 
 ## 💼 Experience
 
