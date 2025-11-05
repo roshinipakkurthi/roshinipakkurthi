@@ -5,7 +5,7 @@
 </p>
 
 ---
-Welcome to my GitHub! I love turning ideas into working code — from small Python scripts to full-stack web apps, dashboards, and AI/ML projects.  
+Welcome to my GitHub! I love turning ideas into working code from small Python scripts to full-stack web apps, dashboards, and AI/ML projects.  
 I’m continuously exploring how technology, analytics, and creativity come together to build real-world solutions.
 
 ## 🚀 About Me
