@@ -12,7 +12,7 @@ I’m continuously exploring how technology, analytics, and creativity come toge
 - 🎓 **B.Tech in Computer Science (AI & ML)** — Gayatri Vidya Parishad College of Engineering, Visakhapatnam (2022–2026)
 - 💡 Passionate and self-motivated developer focused on **AI-powered solutions**, **data analytics**, and **cloud-based machine learning**.
 - 🤖 Skilled in **Python, Machine Learning, Web Development, Data Analytics, and Cloud Integration**.
-- ⚡ “Turning data and ideas into impactful intelligent systems.”
+- ⚡ Turning data and ideas into impactful intelligent systems.
 
 ---
 
@@ -89,6 +89,12 @@ Developed multiple **Python scripts** for automation and small-scale projects, f
 - Completed multiple **virtual internships** in *AI/ML* and *Data Analytics*  
 
 ---
+
+## 💡 Current Goals  
+- Building more **AI/ML, data analytics, and full-stack applications**  
+- Enhancing my portfolio with **data-driven dashboards and business analytics projects**  
+- Exploring the intersection of **technology, analytics, and creativity**  
+
 
 ## 📊 GitHub Analytics
 
